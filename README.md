@@ -4,6 +4,7 @@
 aws_access_key_id = 
 ```diff
 - text in red
+hello in red
 + text in green
 ! text in orange
 # text in gray
