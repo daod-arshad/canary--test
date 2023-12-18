@@ -1,8 +1,7 @@
 [default]
 ```python
 aws_secret_access_key = l1ldWxpoTPjJao7I4tedbbkh7Vig2EaDH9nJfUuM
-```
-
+``
 aws_access_key_id = 
 ```diff
 - hello in white
